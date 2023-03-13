@@ -1,14 +1,14 @@
-# <h1 align="center"> <img width="100" height="32" src="https://hackster.imgix.net/uploads/attachments/612650/giphy_SpgfnjAs5X.gif?auto=compress%2Cformat&gifq=35&w=740&h=555&fit=max"/> NeoPixel <img width="100" height="32" src="https://hackster.imgix.net/uploads/attachments/612650/giphy_SpgfnjAs5X.gif?auto=compress%2Cformat&gifq=35&w=740&h=555&fit=max"/>
+# <h1 align="center"><img width="100" height="32" src="https://hackster.imgix.net/uploads/attachments/612650/giphy_SpgfnjAs5X.gif?auto=compress%2Cformat&gifq=35&w=740&h=555&fit=max"/> NeoPixel <img width="100" height="32" src="https://hackster.imgix.net/uploads/attachments/612650/giphy_SpgfnjAs5X.gif?auto=compress%2Cformat&gifq=35&w=740&h=555&fit=max"/></h1>
 
 <p align="center">
   <img width="250" height="250" src="https://http2.mlstatic.com/D_NQ_NP_795368-MLM53302232527_012023-W.jpg">
 </p>
 
+
 Los neopíxeles son dispositivos de iluminación LED programables que se pueden controlar individualmente. También se conocen como LED inteligentes, LED programables o LED direccionables. 
 Los neopíxeles se pueden controlar utilizando microcontroladores y software, lo que permite crear efectos de iluminación complejos y animaciones. Cada neopíxel tiene su propio controlador integrado que permite controlar su brillo y color individualmente. Además, los neopíxeles se pueden encadenar juntos para crear tiras o matrices de neopíxeles controlados de manera individual.
 
 Los neopíxeles son una marca registrada de Adafruit Industries, pero existen muchos otros tipos de dispositivos de iluminación LED programables
-
 
 # Neopxiel WS2812B 
 Este es el Neopixel más común. Tiene 4 pines (VCC, GND, DIN y DOUT) y se puede controlar con cualquier microcontrolador que tenga un puerto de salida de datos y una fuente de alimentación de 5V.
