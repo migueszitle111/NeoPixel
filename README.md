@@ -132,5 +132,7 @@ for color in COLORS:
 ```
 
 # Salidad del programa
-[![V-deo-sin-t-tulo-Hecho-con-Clipchamp-1.gif](https://i.postimg.cc/BvBVkX0k/V-deo-sin-t-tulo-Hecho-con-Clipchamp-1.gif)](https://postimg.cc/GB9Ks39x)
+<p align="center">
+  <img width="400" height="400" src="https://i.ibb.co/4S5YbmV/simulador.gif">
+</p>
 
