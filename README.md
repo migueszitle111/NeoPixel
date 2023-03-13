@@ -1,14 +1,64 @@
-# NeoPixel :collision:
-### NeoPixel: Es una marca de diodos emisores de luz (LED) programables individualmente producidos por la empresa Adafruit. Los NeoPixels se utilizan en una variedad de proyectos de electrónica y robótica para crear efectos de luz personalizados y animaciones. Los NeoPixels se utilizan en una variedad de proyectos de electrónica y robótica para crear efectos de luz personalizados y animaciones.
----
+# <p align="center"> <img width="100" height="32" src="https://hackster.imgix.net/uploads/attachments/612650/giphy_SpgfnjAs5X.gif?auto=compress%2Cformat&gifq=35&w=740&h=555&fit=max"/> NeoPixel <img width="100" height="32" src="https://hackster.imgix.net/uploads/attachments/612650/giphy_SpgfnjAs5X.gif?auto=compress%2Cformat&gifq=35&w=740&h=555&fit=max"/>
+
 <p align="center">
-  <img width="600" height="400" src="https://http2.mlstatic.com/D_NQ_NP_795368-MLM53302232527_012023-W.jpg">
-</p>
-<p align="center">
-  <img width="600" height="400" src="https://blog.moddable.com/blog/wp-content/uploads/2018/08/IMG_0860_1.gif">
+  <img width="250" height="250" src="https://http2.mlstatic.com/D_NQ_NP_795368-MLM53302232527_012023-W.jpg">
 </p>
 
-# Codigo de Wokwi simulador 
+Los neopíxeles son dispositivos de iluminación LED programables que se pueden controlar individualmente. También se conocen como LED inteligentes, LED programables o LED direccionables. 
+Los neopíxeles se pueden controlar utilizando microcontroladores y software, lo que permite crear efectos de iluminación complejos y animaciones. Cada neopíxel tiene su propio controlador integrado que permite controlar su brillo y color individualmente. Además, los neopíxeles se pueden encadenar juntos para crear tiras o matrices de neopíxeles controlados de manera individual.
+
+Los neopíxeles son una marca registrada de Adafruit Industries, pero existen muchos otros tipos de dispositivos de iluminación LED programables
+
+
+# Neopxiel WS2812B 
+Este es el Neopixel más común. Tiene 4 pines (VCC, GND, DIN y DOUT) y se puede controlar con cualquier microcontrolador que tenga un puerto de salida de datos y una fuente de alimentación de 5V.
+
+- VCC: Es el pin de alimentación y se conecta a la fuente de alimentación del proyecto. Normalmente se utiliza una fuente de alimentación de 5V.
+- GND: Es el pin de tierra y se conecta a la tierra del proyecto.
+- DI (Data In): Es el pin de entrada de datos y se conecta al pin de salida de datos del microcontrolador o del controlador de Neopixel.
+- DO (Data Out): Es el pin de salida de datos y se utiliza para conectar en serie varios LEDs WS2812B.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://http2.mlstatic.com/D_NQ_NP_908147-MLM31224377577_062019-O.webp" alt="Descripción de la imagen 1" width="400" height="250">
+    </td>
+    <td>
+      <img src="https://http2.mlstatic.com/D_NQ_NP_863306-MLM31224378019_062019-O.webp" alt="Descripción de la imagen 2" width="400" height="250">
+    </td>
+    <td>
+      <img src="https://m.media-amazon.com/images/I/81EvVf-1K1L.jpg" alt="Descripción de la imagen 3" width="400" height="250">
+    </td>
+  </tr>
+</table>
+
+# Neopixel Ring
+Un Neopixel Ring es un tipo de dispositivo LED direccionable digital que pertenece a la familia de dispositivos Neopixel de Adafruit. Como su nombre lo indica, el Neopixel Ring tiene forma de anillo
+Las conexiones del Neopixel Ring son bastante sencillas. El anillo tiene cuatro pines de conexión que deben conectarse a la fuente de alimentación y al microcontrolador o controlador de Neopixel. Estos son los pines de conexión:
+
+- VCC: Este es el pin de alimentación y debe estar conectado a la fuente de alimentación del proyecto. Normalmente se utiliza una fuente de alimentación de 5V.
+- GND: Este es el pin de tierra y debe estar conectado a la tierra del proyecto.
+- DI (Data In): Este es el pin de entrada de datos y debe estar conectado al pin de salida de datos del microcontrolador o del controlador de Neopixel.
+- DO (Data Out): Este es el pin de salida de datos y se utiliza para conectar varios Neopixel Rings en serie.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://boutique.semageek.com/741-large_default/neopixel-ring-with-12-led-rgb-led-and-driver-integrated.jpg" width="400" height="250">
+    </td>
+    <td>
+      <img src="https://blog.moddable.com/blog/wp-content/uploads/2018/08/IMG_0860_1.gif"  width="330" height="250">
+    </td>
+    <td>
+      <img src="https://europe1.discourse-cdn.com/arduino/original/4X/a/7/9/a796d2ba73f28db6bdee769b26120fb743151694.png" width="400" height="250">
+    </td>
+  </tr>
+</table>
+
+
+
+
+# Ejemplo de codigo en el simualdor de  Wokwi.com utlizando la Raspberry pi pico 2020 
 ```python
 # NeoPixels on the Pi Pico
 # Sample code from http://www.pibits.net/code/raspberry-pi-pico-and-neopixel-example-in-micropython.php
@@ -79,6 +129,8 @@ for color in COLORS:
     pixels_fill(color)
     pixels_show()
     time.sleep(0.5)
-
-
 ```
+
+# Salidad del programa
+[![V-deo-sin-t-tulo-Hecho-con-Clipchamp-1.gif](https://i.postimg.cc/BvBVkX0k/V-deo-sin-t-tulo-Hecho-con-Clipchamp-1.gif)](https://postimg.cc/GB9Ks39x)
+
