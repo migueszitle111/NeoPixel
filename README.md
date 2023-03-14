@@ -47,7 +47,7 @@ Las conexiones del Neopixel Ring son bastante sencillas. El anillo tiene cuatro 
       <img src="https://boutique.semageek.com/741-large_default/neopixel-ring-with-12-led-rgb-led-and-driver-integrated.jpg" width="400" height="250">
     </td>
     <td>
-      <img src="https://blog.moddable.com/blog/wp-content/uploads/2018/08/IMG_0860_1.gif"  width="330" height="250">
+      <img src="https://blog.moddable.com/blog/wp-content/uploads/2018/08/IMG_0860_1.gif"  width="300" height="250">
     </td>
     <td>
       <img src="https://europe1.discourse-cdn.com/arduino/original/4X/a/7/9/a796d2ba73f28db6bdee769b26120fb743151694.png" width="400" height="250">
