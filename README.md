@@ -133,6 +133,6 @@ for color in COLORS:
 
 # Salidad del programa
 <p align="center">
-  <img width="400" height="400" src="https://i.ibb.co/4S5YbmV/simulador.gif">
+  <img width="400" height="400" src="https://bhave.sh/content/images/2022/01/neopixel-hue-spectrum.gif">
 </p>
 
