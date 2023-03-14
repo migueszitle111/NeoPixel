@@ -58,7 +58,7 @@ Las conexiones del Neopixel Ring son bastante sencillas. El anillo tiene cuatro 
 
 
 
-# Ejemplo de codigo en el simualdor de  Wokwi.com utlizando la Raspberry pi pico 2020 
+# Ejemplo de codigo en el simulador de  Wokwi.com utlizando la Raspberry pi pico 2020 
 ```python
 # NeoPixels on the Pi Pico
 # Sample code from http://www.pibits.net/code/raspberry-pi-pico-and-neopixel-example-in-micropython.php
