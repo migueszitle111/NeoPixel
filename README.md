@@ -1,7 +1,7 @@
 # <img width="135" height="32" src="https://hackster.imgix.net/uploads/attachments/612650/giphy_SpgfnjAs5X.gif?auto=compress%2Cformat&gifq=35&w=740&h=555&fit=max"/> <img width="135" height="32" src="https://hackster.imgix.net/uploads/attachments/612650/giphy_SpgfnjAs5X.gif?auto=compress%2Cformat&gifq=35&w=740&h=555&fit=max"/> <img width="135" height="32" src="https://hackster.imgix.net/uploads/attachments/612650/giphy_SpgfnjAs5X.gif?auto=compress%2Cformat&gifq=35&w=740&h=555&fit=max"/> NeoPixel <img width="135" height="32" src="https://hackster.imgix.net/uploads/attachments/612650/giphy_SpgfnjAs5X.gif?auto=compress%2Cformat&gifq=35&w=740&h=555&fit=max"/> <img width="135" height="32" src="https://hackster.imgix.net/uploads/attachments/612650/giphy_SpgfnjAs5X.gif?auto=compress%2Cformat&gifq=35&w=740&h=555&fit=max"/> <img width="135" height="32" src="https://hackster.imgix.net/uploads/attachments/612650/giphy_SpgfnjAs5X.gif?auto=compress%2Cformat&gifq=35&w=740&h=555&fit=max"/>  
 
 <p align="center">
-  <img width="250" height="250" src="https://http2.mlstatic.com/D_NQ_NP_795368-MLM53302232527_012023-W.jpg">
+  <img width="251" height="250" src="https://http2.mlstatic.com/D_NQ_NP_795368-MLM53302232527_012023-W.jpg">
 </p>
 
 
